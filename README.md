@@ -2,12 +2,12 @@
 
 ## About the Project
 
-This project automates the extraction of product and review data from an online API, transforms the data into a structured format, and loads it into a MySQL database. It includes features for extracting data from the API, exporting data to JSON files, importing data from JSON files into a database, and a menu-driven interface for data interaction. The project demonstrates data pipelining, API interaction, database management, and user-friendly interfaces.
+This project automates the extraction of product and review data from an online API (dummyjson.com), transforms the data into a structured format, and loads it into a MySQL database. It includes features for extracting data from the API, exporting data to JSON files, importing data from JSON files into a database, and a menu-driven interface for data interaction. The project demonstrates data pipelining, API interaction, database management, and user-friendly interfaces.
+
 This project was developed by:
 * Andressa Lopes ([andressaclopes94](https://github.com/andressaclopes94))
 * Bernardo Marta ([BernardoMarta](https://github.com/BernardoMarta))
 * Daniela Esmeraldino ([danielaesmeraldino](https://github.com/danielaesmeraldino))
-
 ## How It Works
 
 1.  **Data Extraction**: Extracts product and review data from the specified API endpoint.
