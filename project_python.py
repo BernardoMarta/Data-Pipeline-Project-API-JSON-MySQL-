@@ -9,6 +9,7 @@ from functions import *
 importDataCategories()
 exportJsonProducts()
 importDataProducts()
+exportJsonProducts()
 exportJsonReviews()
 importDataReviews()
 menu()
